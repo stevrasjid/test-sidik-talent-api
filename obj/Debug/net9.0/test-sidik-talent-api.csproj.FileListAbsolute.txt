@@ -31,3 +31,4 @@ D:\Kerjaan Papan\test-sidik-talent-api\obj\Debug\net9.0\refint\test-sidik-talent
 D:\Kerjaan Papan\test-sidik-talent-api\obj\Debug\net9.0\test-sidik-talent-api.pdb
 D:\Kerjaan Papan\test-sidik-talent-api\obj\Debug\net9.0\test-sidik-talent-api.genruntimeconfig.cache
 D:\Kerjaan Papan\test-sidik-talent-api\obj\Debug\net9.0\ref\test-sidik-talent-api.dll
+D:\Kerjaan Papan\test-sidik-talent-api\obj\Debug\net9.0\test-sidik-talent-api.sourcelink.json
