@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test-sidik-talent-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53660940fd930a9871d170c8ad80f074fcd23f29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790669559795b35f307ff416ac5c3e1ed042bee0")]
 [assembly: System.Reflection.AssemblyProductAttribute("test-sidik-talent-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test-sidik-talent-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
