@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\test-sidik-talent-api.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eYjIymgDoiHQ8DihicFgjGvFo+Bj07kBy0XzKAoJj1k=",
+  "Source": "test-sidik-talent-api",
+  "BasePath": "_content/test-sidik-talent-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

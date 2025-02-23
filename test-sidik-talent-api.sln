@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-sidik-talent-api", "test-sidik-talent-api.csproj", "{1AE320B5-FF66-63F7-26A2-DEB86C7172FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE320B5-FF66-63F7-26A2-DEB86C7172FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE320B5-FF66-63F7-26A2-DEB86C7172FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE320B5-FF66-63F7-26A2-DEB86C7172FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE320B5-FF66-63F7-26A2-DEB86C7172FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE8763D7-E941-4DF4-A920-4BE1FC668430}
+	EndGlobalSection
+EndGlobal
